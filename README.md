@@ -31,7 +31,8 @@ def gcd():
 ```
 
 ## Output:
-![output](<GCD  of two number.png>)
+![GCD  of two number](https://github.com/GURUMUR/GCD-of-two-numbers/assets/144895197/b8567b72-bd1f-428e-8e09-7782a1493f08)
+
 
 
 ## Result:
